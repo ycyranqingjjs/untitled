@@ -18,6 +18,10 @@
     }
 
     open fun ct(){
+        val a = 10;
+        var b:Int
+        b = 3;
+
 
     }
 }
