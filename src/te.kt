@@ -12,4 +12,6 @@
 class te {
     val c = 10
     var bb = "ccc"
+    var ww:Int = 10
+
 }
